@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorFabRipple
+color colorPrimary
+color colorPrimaryDark
+string show_detail_capability_name

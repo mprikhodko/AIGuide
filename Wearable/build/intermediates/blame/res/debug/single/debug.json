@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/margaritaprikhodko/AndroidStudioProjects/AIGuide/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_ic_full_explore.png.flat",
+        "source": "/Users/margaritaprikhodko/AndroidStudioProjects/AIGuide/Wearable/src/main/res/drawable-xhdpi/ic_full_explore.png"
+    },
+    {
+        "merged": "/Users/margaritaprikhodko/AndroidStudioProjects/AIGuide/Wearable/build/intermediates/res/merged/debug/layout_gridpager_action.xml.flat",
+        "source": "/Users/margaritaprikhodko/AndroidStudioProjects/AIGuide/Wearable/src/main/res/layout/gridpager_action.xml"
+    },
+    {
+        "merged": "/Users/margaritaprikhodko/AndroidStudioProjects/AIGuide/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_ic_full_explore.png.flat",
+        "source": "/Users/margaritaprikhodko/AndroidStudioProjects/AIGuide/Wearable/src/main/res/drawable-hdpi/ic_full_explore.png"
+    },
+    {
+        "merged": "/Users/margaritaprikhodko/AndroidStudioProjects/AIGuide/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_ic_full_directions_walking.png.flat",
+        "source": "/Users/margaritaprikhodko/AndroidStudioProjects/AIGuide/Wearable/src/main/res/drawable-xhdpi/ic_full_directions_walking.png"
+    },
+    {
+        "merged": "/Users/margaritaprikhodko/AndroidStudioProjects/AIGuide/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_ic_full_openonphone.png.flat",
+        "source": "/Users/margaritaprikhodko/AndroidStudioProjects/AIGuide/Wearable/src/main/res/drawable-hdpi/ic_full_openonphone.png"
+    },
+    {
+        "merged": "/Users/margaritaprikhodko/AndroidStudioProjects/AIGuide/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_ic_full_openonphone.png.flat",
+        "source": "/Users/margaritaprikhodko/AndroidStudioProjects/AIGuide/Wearable/src/main/res/drawable-xhdpi/ic_full_openonphone.png"
+    },
+    {
+        "merged": "/Users/margaritaprikhodko/AndroidStudioProjects/AIGuide/Wearable/build/intermediates/res/merged/debug/layout_gridpager_card.xml.flat",
+        "source": "/Users/margaritaprikhodko/AndroidStudioProjects/AIGuide/Wearable/src/main/res/layout/gridpager_card.xml"
+    },
+    {
+        "merged": "/Users/margaritaprikhodko/AndroidStudioProjects/AIGuide/Wearable/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/margaritaprikhodko/AndroidStudioProjects/AIGuide/Wearable/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/margaritaprikhodko/AndroidStudioProjects/AIGuide/Wearable/build/intermediates/res/merged/debug/layout_gridpager_fullscreen_image.xml.flat",
+        "source": "/Users/margaritaprikhodko/AndroidStudioProjects/AIGuide/Wearable/src/main/res/layout/gridpager_fullscreen_image.xml"
+    },
+    {
+        "merged": "/Users/margaritaprikhodko/AndroidStudioProjects/AIGuide/Wearable/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/margaritaprikhodko/AndroidStudioProjects/AIGuide/Wearable/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/margaritaprikhodko/AndroidStudioProjects/AIGuide/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_ic_full_directions_walking.png.flat",
+        "source": "/Users/margaritaprikhodko/AndroidStudioProjects/AIGuide/Wearable/src/main/res/drawable-hdpi/ic_full_directions_walking.png"
+    },
+    {
+        "merged": "/Users/margaritaprikhodko/AndroidStudioProjects/AIGuide/Wearable/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/margaritaprikhodko/AndroidStudioProjects/AIGuide/Wearable/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]
